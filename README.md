@@ -4,7 +4,7 @@
 
 Original vocal send out from EMX's Effect-Out to right channel of Presonus USB 96 sound card. Studio One recieves sounds from EMX's Effect-Out and direct music from YouTube, then it will process and mix the sounds (see inserts/send in Studio One). Presonus sound card then returns final mixed sound from Studion to EMX's Aux-IN.
 
-Note: the altitube of effect controll indenpendly in EMX's effects or Studion One's Main Out.
+Note: The effect altitube controls indenpendly in EMX's effects or Studio One's Main Out.
 
 #### Equipments:
 
@@ -27,7 +27,7 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 ##### Studio One Artist:
 
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
+![Studio One](/images/Studio_One_0.png)
 
 ![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_01.png)
 
