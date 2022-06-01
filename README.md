@@ -1,5 +1,4 @@
-
-Setup Karaoke system using effects from software - Studio One Artist and Presonus USB 96 sound card.
+#### **Karaoke vocal effects from software (Studio One).**
 
 **How it works:**
 
