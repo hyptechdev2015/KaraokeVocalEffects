@@ -44,5 +44,5 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 ![VoiceMeter](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/voicemeeterpro_2.png)
 
 #### Windows 10 Sound Setting
-![Windows 10 ](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Windows10_sound_setting_2.png)
+![Windows 10](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Windows10_sound_settings_2.png)
 
