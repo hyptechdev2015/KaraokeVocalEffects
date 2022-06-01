@@ -25,24 +25,17 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 ##### Studio One Artist:
 
 
-![Alt text](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
-
-
-
-
-(https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
-
-(https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
+![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
 
 (https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_01.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_1.png)
+![Studio_One_1](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_1.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_2.png)
+![Studio_One_1](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_2.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_3.png)
+![Studio_One_1](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_3.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_4.png)
+![Studio_One_1](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_4.png)
 
 #### VoiceMeter Banana
 
