@@ -5,3 +5,9 @@ Setup Karaoke system using effects from Sutdio One Artist and Presonus USB 96 so
 Equipments:
 
 1. Hardware:
+
+2. Softwares:
+
+
+Setup:
+![](/git/public/KaraokeStudioOnePreSonusSetup/src/master/images/Studio_One_0.png)
