@@ -39,9 +39,9 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 
 #### VoiceMeter Banana
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/voicemeeterpro_1.png)
+![VoiceMeter](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/voicemeeterpro_1.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/voicemeeterpro_2.png)
+![VoiceMeter](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/voicemeeterpro_2.png)
 
 #### Windows 10 Sound Setting
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Windows10_sound_settings.png)
