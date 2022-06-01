@@ -24,7 +24,10 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 
 ##### Studio One Artist:
 
-[teat](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
+
+![Alt text](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
+
+
 
 
 (https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
