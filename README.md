@@ -9,11 +9,13 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 #### Equipments:
 
 1. Hardwares:
+
     2. Yamaha EMX 660
     3. Presonus USB 96 sound card and drivers
     4. PC
 
 2. Softwares:
+
     3. [Presonus Studio One 5 Artist](https://shop.presonus.com/Studio-One-5-Artist)
     4. [Voicemeater Banana](https://vb-audio.com/Voicemeeter/banana.htm) 
     5. [ASIO4ALL for Windows](https://www.asio4all.org/) 
