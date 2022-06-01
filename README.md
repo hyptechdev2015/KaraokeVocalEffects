@@ -10,4 +10,16 @@ Equipments:
 
 
 Setup:
+
+Studio One Artist:
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
+
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_01.png)
+
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_1.png)
+
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_2.png)
+
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_3.png)
+
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_4.png)
