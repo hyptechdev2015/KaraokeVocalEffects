@@ -10,4 +10,4 @@ Equipments:
 
 
 Setup:
-![](/git/public/KaraokeStudioOnePreSonusSetup/src/master/images/Studio_One_0.png)
+![](../git/public/KaraokeStudioOnePreSonusSetup/src/master/images/Studio_One_0.png)
