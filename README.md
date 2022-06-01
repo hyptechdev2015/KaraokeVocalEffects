@@ -23,9 +23,12 @@ Note: the altitube of effect controll indenpendly in EMX's effects or Studion On
 #### Settings for Studio One, Voicemeter Banana and Windows Sound Settings:
 
 ##### Studio One Artist:
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
+[
+(https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_0.png)
 
-![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_01.png)
+(https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
+
+(https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_01.png)
 
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_1.png)
 
