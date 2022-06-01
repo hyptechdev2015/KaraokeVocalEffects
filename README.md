@@ -28,6 +28,8 @@ Setup Karaoke system using effects from Sutdio One Artist and Presonus USB 96 so
 
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/voicemeeterpro_1.png)
 
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/voicemeeterpro_2.png)
+
 #### Windows 10 Sound Setting
 
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Windows10_sound_settings.png)
