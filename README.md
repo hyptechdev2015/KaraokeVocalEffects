@@ -1,4 +1,4 @@
-#### **Karaoke vocal effects using software (Studio One).**
+#### **Karaoke vocal effects using software (Studio One)**
 
 **How it works:**
 
@@ -29,22 +29,22 @@ Note: The effect altitube controls indenpendly in EMX's effects or Studio One's 
 
 ![Studio One](/images/Studio_One_0.png)
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_01.png)
+![Studio One](/images/Studio_One_01.png)
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_1.png)
+![Studio One](/images/Studio_One_1.png)
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_2.png)
+![Studio One](/images/Studio_One_2.png)
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_3.png)
+![Studio One](/images/Studio_One_3.png)
 
-![Studio One](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Studio_One_4.png)
+![Studio One](/images/Studio_One_4.png)
 
 #### VoiceMeter Banana
 
-![VoiceMeter](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/voicemeeterpro_1.png)
+![VoiceMeter](/images/voicemeeterpro_1.png)
 
-![VoiceMeter](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/voicemeeterpro_2.png)
+![VoiceMeter](/images/voicemeeterpro_2.png)
 
 #### Windows 10 Sound Setting
-![Windows 10](https://raw.githubusercontent.com/hyptechdev2015/KaraokeVocalEffects/master/images/Windows10_sound_settings_2.png)
+![Windows 10](/images/Windows10_sound_settings_2.png)
 
