@@ -1,4 +1,4 @@
-#### **Karaoke vocal effects from software (Studio One).**
+#### **Karaoke vocal effects using software (Studio One).**
 
 **How it works:**
 
