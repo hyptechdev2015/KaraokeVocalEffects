@@ -3,7 +3,7 @@ Setup Karaoke system using effects from software - Studio One Artist and Presonu
 
 #### Equipments:
 
-1. Hardware:
+1. Hardwared:
     2. Yamaha EMX 660
     3. Presonus USB 96 sound card and drivers
     4. PC
@@ -14,7 +14,7 @@ Setup Karaoke system using effects from software - Studio One Artist and Presonu
     5. [ASIO4ALL for Windows](https://www.asio4all.org/) 
 
 
-#### Setup:
+#### Settings for Studio One, Voicemeter Banana and Windows Sound Settings:
 
 ##### Studio One Artist:
 ![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
