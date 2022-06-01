@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AudioIOConfiguration previewChannel="{30B29E50-72CE-4A28-BFB9-5D3CF7AE71A0}">
+	<Attributes x:id="channels">
+		<AudioChannelDescription label="Main" type="AudioOutput" uniqueID="{30B29E50-72CE-4A28-BFB9-5D3CF7AE71A0}">
+			<SpeakerSetup x:id="speakerType" type="Stereo"/>
+			<PersistentAttributes x:id="attributes">
+				<Attribute id="hardwareMonitorEnabled" value="1"/>
+				<Attribute id="cueMixEnabled" value="0"/>
+			</PersistentAttributes>
+		</AudioChannelDescription>
+		<AudioChannelDescription label="Input L+R" type="AudioInput" uniqueID="{3F21D640-CB31-4570-940F-B1DA41DF11CE}">
+			<SpeakerSetup x:id="speakerType" type="Stereo"/>
+		</AudioChannelDescription>
+		<AudioChannelDescription label="Input L" type="AudioInput" uniqueID="{45513128-F245-420E-B503-3E050E148581}">
+			<SpeakerSetup x:id="speakerType" type="Mono"/>
+		</AudioChannelDescription>
+		<AudioChannelDescription label="Input R" type="AudioInput" uniqueID="{A4A3D748-D862-48CB-9C5B-8FCC8DA78E05}">
+			<SpeakerSetup x:id="speakerType" type="Mono"/>
+		</AudioChannelDescription>
+		<AudioChannelDescription label="youtube" type="AudioInput" uniqueID="{A9C484CC-1E1D-43BC-9C52-EBF2289C07DB}">
+			<SpeakerSetup x:id="speakerType" type="Stereo"/>
+		</AudioChannelDescription>
+	</Attributes>
+	<Attributes x:id="assignment" deviceID="{232685C6-6548-49D8-846D-4141A3EF7560}" deviceName="ASIO4ALL v2"
+	            machineID="M82SERVER">
+		<Attributes x:id="inputs">
+			<PortAssignment name="{3F21D640-CB31-4570-940F-B1DA41DF11CE}">
+				<Association key="L" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput02"/>
+				<Association key="R" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput03"/>
+			</PortAssignment>
+			<PortAssignment name="{45513128-F245-420E-B503-3E050E148581}">
+				<Association key="M" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput02"/>
+			</PortAssignment>
+			<PortAssignment name="{A4A3D748-D862-48CB-9C5B-8FCC8DA78E05}">
+				<Association key="M" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput03"/>
+			</PortAssignment>
+			<PortAssignment name="{A9C484CC-1E1D-43BC-9C52-EBF2289C07DB}">
+				<Association key="L" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput04"/>
+				<Association key="R" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioOutput05"/>
+			</PortAssignment>
+		</Attributes>
+		<Attributes x:id="outputs">
+			<PortAssignment name="{30B29E50-72CE-4A28-BFB9-5D3CF7AE71A0}">
+				<Association key="L" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioInput00"/>
+				<Association key="R" value="{232685C6-6548-49D8-846D-4141A3EF7560}/AudioInput01"/>
+			</PortAssignment>
+		</Attributes>
+	</Attributes>
+</AudioIOConfiguration>
