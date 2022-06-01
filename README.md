@@ -10,4 +10,4 @@ Equipments:
 
 
 Setup:
-![](/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
+![](https://thexma.asuscomm.com/git/public/KaraokeStudioOnePreSonusSetup/raw/master/images/Studio_One_0.png)
